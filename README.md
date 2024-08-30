@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Sebastian and I'm exited to collaborate on Machine Learning projects and keep learning.
+My name is Sebastian and I'm exited to collaborate on Machine Learning projects and keep learning new things about Artificial Intelligence.
 
 <!--
 **segagz/segagz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
