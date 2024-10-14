@@ -1,14 +1,12 @@
 ## Hey, my name Sebastian! Nice to meet you! 
 
-I'm exited to collaborate on Machine Learning projects and keep learning new things about Artificial Intelligence.
-
 ⚡ About me:
 
 I am a data-driven professional with a strong foundation in data analysis and management, currently transitioning from the real estate sector into the field of data science. I’m passionate about leveraging data to solve complex problems and generate actionable insights. I have hands-on experience in Python, machine learning, exploratory data analysis, and working with large datasets using tools like pandas and SQL. I am especially interested in predictive modeling and creating innovative solutions with data visualization techniques.
 
 My background has equipped me with a detail-oriented mindset and a problem-solving approach, allowing me to contribute effectively to data science projects from data exploration to model deployment. I am seeking new opportunities to further my professional growth and make impactful contributions as part of a data science team.
 
-📫 Do you wish to get in touch with me? [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastiangarcidue%C3%B1as/)
+📫 Do you wish to get in touch with me? [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastiangarcidue%C3%B1as/)
 
 ### 🛠️  Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
