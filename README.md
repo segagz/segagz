@@ -19,7 +19,10 @@ My background has equipped me with a detail-oriented mindset and a problem-solvi
 ![Spacy](https://img.shields.io/badge/-Spacy-09A3D5?style=flat&logo=python&logoColor=white)
 ![Neural Networks](https://img.shields.io/badge/-Neural%20Networks-FF6347?style=flat&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
+![CatBoost](https://img.shields.io/badge/-CatBoost-FF6F00?style=flat&logo=python&logoColor=white)
+![AdaBoost](https://img.shields.io/badge/-AdaBoost-FF4500?style=flat&logo=python&logoColor=white)
+![ARIMA](https://img.shields.io/badge/-ARIMA-DC143C?style=flat)
+![Spacy](https://img.shields.io/badge/-Spacy-09A3D5?style=flat&logo=python&logoColor=white)
 
 <!--
 **segagz/segagz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
