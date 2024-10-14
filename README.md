@@ -1,7 +1,5 @@
 ## Hey, my name Sebastian! Nice to meet you! 
 
-![image]({(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)})
-
 I'm exited to collaborate on Machine Learning projects and keep learning new things about Artificial Intelligence.
 
 ⚡ About me:
