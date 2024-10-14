@@ -22,7 +22,9 @@ My background has equipped me with a detail-oriented mindset and a problem-solvi
 ![CatBoost](https://img.shields.io/badge/-CatBoost-FF6F00?style=flat&logo=python&logoColor=white)
 ![AdaBoost](https://img.shields.io/badge/-AdaBoost-FF4500?style=flat&logo=python&logoColor=white)
 ![ARIMA](https://img.shields.io/badge/-ARIMA-DC143C?style=flat)
-
+![KMeans](https://img.shields.io/badge/-KMeans-FFCC00?style=flat&logo=python&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
 <!--
 **segagz/segagz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
